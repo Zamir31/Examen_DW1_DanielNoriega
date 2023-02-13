@@ -1,0 +1,23 @@
+{
+  "name": "examen_dw1_danielnoriega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zamir31/Examen_DW1_DanielNoriega.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zamir31/Examen_DW1_DanielNoriega/issues"
+  },
+  "homepage": "https://github.com/Zamir31/Examen_DW1_DanielNoriega#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
